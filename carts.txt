@@ -1,0 +1,15 @@
+'***********************************************************************************
+'                     List of Product Variants related to carts
+'
+'
+' Modifications history
+' 
+' Prefix	Cart related	Data of modif.		Status		Midified by
+' CAAK		303		2019.10.06		DEBUG		S.Kleszcz
+' CAAK		303		2019.10.06		PRODUCTION	S.Kleszcz
+
+CARTS
+100:CAAA;
+200:CABC;
+300:CAAD,DAAE,CAAF;
+303:CAAK,CAAT,CAXX;

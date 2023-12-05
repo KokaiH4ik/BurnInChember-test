@@ -1,0 +1,58 @@
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\BurnInPitStop.exe.config
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\BurnInPitStop.exe
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\BurnInPitStop.pdb
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\MetroFramework.Design.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\MetroFramework.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\ZedGraph.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\ZedGraph.xml
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\obj\Debug\BurnInPitStop.Form1.resources
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\obj\Debug\BurnInPitStop.Properties.Resources.resources
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\obj\Debug\BurnInPitStop.csproj.GenerateResource.cache
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\obj\Debug\BurnInPitStop.csproj.CoreCompileInputs.cache
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\obj\Debug\BurnInPitStop.csproj.CopyComplete
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\obj\Debug\BurnInPitStop.exe
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\obj\Debug\BurnInPitStop.pdb
+C:\Users\kolin\Desktop\BurnInPitStop\BurnInPitStop\obj\Debug\BurnInPitStop.csprojAssemblyReference.cache
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\BurnInPitStop.exe.config
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\BurnInPitStop.exe
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\BurnInPitStop.pdb
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\MetroFramework.Design.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\MetroFramework.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\ZedGraph.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\ZedGraph.xml
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\obj\Debug\BurnInPitStop.Form1.resources
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\obj\Debug\BurnInPitStop.Properties.Resources.resources
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\obj\Debug\BurnInPitStop.csproj.GenerateResource.cache
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\obj\Debug\BurnInPitStop.csproj.CoreCompileInputs.cache
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\obj\Debug\BurnInPitStop.csproj.CopyComplete
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\obj\Debug\BurnInPitStop.exe
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\obj\Debug\BurnInPitStop.pdb
+C:\Users\kolin\Desktop\К записи на диск\BurnInChember test\BurnInPitStop\obj\Debug\BurnInPitStop.csproj.AssemblyReference.cache
